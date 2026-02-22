@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite>
+  <name>button_modern_anim</name>
+  <image>modern_button_anim_1.png</image>
+  <image>modern_button_anim_2.png</image>
+  <image>modern_button_anim_3.png</image>
+  <width>120</width>
+  <height>40</height>
+  <transparent>true</transparent>
+  <frames>3</frames>
+  <speed>10</speed>
+</sprite>

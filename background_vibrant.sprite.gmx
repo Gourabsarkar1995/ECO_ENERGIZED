@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite>
+  <name>background_vibrant</name>
+  <image>vibrant_energy_background.png</image>
+  <width>1366</width>
+  <height>768</height>
+  <transparent>false</transparent>
+</sprite>

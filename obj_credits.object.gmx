@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <spriteName></spriteName>
+  <solid>0</solid>
+  <visible>-1</visible>
+  <depth>-40</depth>
+  <persistent>1</persistent>
+  <parentName>&lt;undefined&gt;</parentName>
+  <maskName>&lt;undefined&gt;</maskName>
+  <events>
+    <event eventtype="3" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>100</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>2</exetype>
+        <functionname>draw_text</functionname>
+        <arguments>
+          <argument>400</argument>
+          <argument>300</argument>
+          <argument>"Game by Gourab Sarkar\nThanks for playing!"</argument>
+        </arguments>
+      </action>
+    </event>
+  </events>
+</object>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite>
+  <name>button_glow_anim</name>
+  <image>button_glow_1.png</image>
+  <image>button_glow_2.png</image>
+  <image>button_glow_3.png</image>
+  <width>120</width>
+  <height>40</height>
+  <transparent>true</transparent>
+  <frames>3</frames>
+  <speed>12</speed>
+</sprite>
