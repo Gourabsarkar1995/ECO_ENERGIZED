@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite>
+  <name>background_modern</name>
+  <image>modern_energy_background.png</image>
+  <width>800</width>
+  <height>600</height>
+  <transparent>false</transparent>
+</sprite>
